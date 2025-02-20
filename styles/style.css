@@ -1,0 +1,5 @@
+#miparrafo { color: red; font-family: "Verdana"; }
+li > a { color: aquamarine !important }
+.button { background-color: blueviolet; }
+li > a { color: yellow }
+.button:hover { background-color: chocolate; }
